@@ -13,7 +13,7 @@ const App = () => {
         height="auto"
       /> */}
       <ReactFlvPlayer
-        url="http://localhost:8000/live/chunlee.flv"
+        url="http://localhost:3333/live/krappa.flv"
         heigh="800px"
         width="800px"
         isMuted={true}
